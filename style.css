@@ -1,0 +1,51 @@
+html{
+    background-color: black;
+}
+.container{
+    width: 100%;
+    display: flex;
+}
+.row{
+    width: 100%;
+    display: flex;
+    margin: 5px;
+}
+.container1{
+    width: 50%;
+}
+.container figure{
+    margin: 40px;
+}
+.container figure img{
+    width: 70%;
+}
+.container2{
+    width: 50% 
+}
+.container figure{
+    margin: 40px;
+}
+.container figure img{
+    width: 100%;
+    height: 506.25px;
+}
+.cont-int{
+    width: 100%;
+    transition:transform .5s;
+}
+.cont-int div a {
+    color: rgb(245, 121, 20);
+    font-family: Arial, helvetica, sans-serif;
+    
+}
+.cont-int div p {
+    color:rgb(249, 247, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.text{
+    margin: 40px 40px 40px 10px ;
+    margin-left: 10%;
+    align-content: center;
+}
